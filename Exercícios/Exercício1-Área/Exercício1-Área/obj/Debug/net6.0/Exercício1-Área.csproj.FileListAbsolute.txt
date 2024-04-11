@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\bin\Debug\net6.0\Exercício1-Área.exe
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\bin\Debug\net6.0\Exercício1-Área.deps.json
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\bin\Debug\net6.0\Exercício1-Área.runtimeconfig.json
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\bin\Debug\net6.0\Exercício1-Área.dll
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\bin\Debug\net6.0\Exercício1-Área.pdb
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.dll
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\refint\Exercício1-Área.dll
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.pdb
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\Exercício1-Área.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício1-Área\Exercício1-Área\obj\Debug\net6.0\ref\Exercício1-Área.dll

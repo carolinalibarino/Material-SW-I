@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\bin\Debug\net6.0\Exercício2-Site.exe
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\bin\Debug\net6.0\Exercício2-Site.deps.json
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\bin\Debug\net6.0\Exercício2-Site.runtimeconfig.json
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\bin\Debug\net6.0\Exercício2-Site.dll
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\bin\Debug\net6.0\Exercício2-Site.pdb
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.dll
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\refint\Exercício2-Site.dll
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.pdb
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\Exercício2-Site.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Exercícios\Exercício2-Site\Exercício2-Site\obj\Debug\net6.0\ref\Exercício2-Site.dll
