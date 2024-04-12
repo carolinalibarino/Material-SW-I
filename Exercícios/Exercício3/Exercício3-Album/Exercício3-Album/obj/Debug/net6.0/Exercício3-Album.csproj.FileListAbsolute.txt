@@ -1,0 +1,14 @@
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\bin\Debug\net6.0\Exercício3-Album.exe
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\bin\Debug\net6.0\Exercício3-Album.deps.json
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\bin\Debug\net6.0\Exercício3-Album.runtimeconfig.json
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\bin\Debug\net6.0\Exercício3-Album.dll
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\bin\Debug\net6.0\Exercício3-Album.pdb
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\Exercício3-Album.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\Exercício3-Album.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\Exercício3-Album.AssemblyInfo.cs
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\Exercício3-Album.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\Exercício3-Album.dll
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\refint\Exercício3-Album.dll
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\Exercício3-Album.pdb
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\Exercício3-Album.genruntimeconfig.cache
+C:\Users\lab1-aluno\Downloads\Exercício3\Exercício3-Album\Exercício3-Album\obj\Debug\net6.0\ref\Exercício3-Album.dll
